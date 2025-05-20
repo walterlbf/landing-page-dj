@@ -7,6 +7,9 @@
 
 ![lp-dj](https://github.com/user-attachments/assets/28bb79f1-1568-4d63-9e8f-fac539434025)
 
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org)
+[![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)](https://elementor.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://pages.github.com)
 ---
 
 ## 🔍 **Visão Geral**
@@ -18,12 +21,7 @@ O projeto explora:
 - Design persuasivo e hierarquia visual
 - Otimização para conversões
 - Performance e SEO básico
----
 
-## 🛠️ **Tecnologias Utilizadas**
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org)
-[![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)](https://elementor.com)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://pages.github.com)
 ---
 
 ## ✨ **Destaques Técnicos**
