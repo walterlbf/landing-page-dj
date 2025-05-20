@@ -5,8 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/-Acesse_agora!-FF4E00?style=for-the-badge&logo=wordpress&logoColor=white)](https://walterlbf.github.io/landing-page-dj/)
 
-![Preview da Landing Page](link-para-sua-imagem-ou-gif.gif)  
-*(Substitua pelo link real do seu preview)*
+![lp-dj](https://github.com/user-attachments/assets/28bb79f1-1568-4d63-9e8f-fac539434025)
 
 ---
 
