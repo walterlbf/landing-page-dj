@@ -18,7 +18,6 @@ O projeto explora:
 - Design persuasivo e hierarquia visual
 - Otimização para conversões
 - Performance e SEO básico
-- Integração com ferramentas de email marketing
 
 ---
 
@@ -28,7 +27,6 @@ O projeto explora:
 | 🖥️ WordPress            | Custom Theme + Plugins Essenciais        |
 | 🎨 Elementor Free        | Design Visual Sem Código                 |
 | 🚀 GitHub Pages          | Hospedagem Estática Gratuita             |
-| 📈 Otimização            | GTmetrix | Google PageSpeed Insights       |
 | 📱 Responsividade        | Mobile-First + Cross-Browser             |
 
 ---
@@ -38,7 +36,6 @@ O projeto explora:
 - ✅ **Call-to-Actions** otimizados para conversão
 - ✅ **Benefícios em Destaque** com ícones customizados
 - ✅ **Design Responsivo** testado em múltiplos dispositivos
-- ✅ **Formulário de Contato** integrado
 - ✅ **Performance Otimizada** (score de 90+ no PageSpeed)
 
 ---
@@ -59,7 +56,7 @@ O projeto explora:
 - [ ] Adicionar vídeo demostrativo
 - [ ] Implementar formulário de captura
 - [ ] Testes A/B com diferentes CTAs
-- [ ] Análise de métricas com Google Analytics
+- [ ] Testar Trafego pago
 
 ---
 
